@@ -90,3 +90,4 @@ Both configurations yield a net useful throughput that satisfies the bandwidth d
 This project was developed as part of the **SDR-Based Design for Radiocom** course at the **University of Science and Technology Houari Boumediene (USTHB)**, Faculty of Electrical Engineering.
 
 * **Bourennane Lylia Fatma** - *Electrical Engineering Department, USTHB*
+* Academic Project - 2026
